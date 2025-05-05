@@ -8,3 +8,6 @@ This consists of all the code used in the dissertation "Do supply chain disrupti
 -DELAY variable quarterly all data computes the delay variable index for all 9 automakers
 
 -General_Substitutability_Calculator computes the substitutability score for all firms (except Tesla and Ford which were done separately in the files Substituability_Ford and Substitutability_Tesla)
+
+-The full data sourced from ImportYeti can be found here: 
+https://drive.google.com/drive/folders/16v4rCbj0QW5PZPZuLL0k2l4jTobabpcI?usp=sharing
